@@ -1,4 +1,4 @@
-# Ahmad Ali Shah — Cinematic Portfolio & Engineering Lab
+#  Portfolio
 
 > **A high-performance, frame-scrubbed web experience built with Next.js 16 (Turbopack), HTML5 Canvas, React 18, and Tailwind CSS.**
 
